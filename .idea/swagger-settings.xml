@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SwaggerSettings">
+    <option name="localHubAddress" value="https://virtserver.swaggerhub.com/ByteBakers/pandapi-dev/1.0.0" />
+    <remoteSpecificationUrls>
+      <UrlInfo>
+        <option name="urlString" value="https://api.swaggerhub.com/apis/ByteBakers/pandapi-dev/1.0.0/swagger.yaml" />
+      </UrlInfo>
+      <UrlInfo>
+        <option name="urlString" value="https://virtserver.swaggerhub.com/ByteBakers/pandapi-dev/1.0.0" />
+      </UrlInfo>
+    </remoteSpecificationUrls>
+  </component>
+</project>
